@@ -1,0 +1,56 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&display=swap');
+
+.font{
+    font-family: "MV Boli", serif;
+   text-decoration-color:blue;
+
+
+
+}
+nav{
+  text-decoration-color: #EEAECA;
+    position: fixed;
+     width: 100%;
+     z-index: 1;
+}
+.navbar{
+    overflow: hidden;
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0;
+    text-decoration-color: blue;
+    background: #EEAECA;
+    background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+}.card{
+    height:100%;
+     background: #EEAECA;
+     background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+ }
+.nav-item:hover{
+    font-size:24px;
+}
+.card{
+    text-align: center;
+
+}
+.card:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease-in-out;
+}
+.ot{
+
+
+    background: #3F5EFB;
+    background: radial-gradient(circle, rgba(63, 94, 251, 1) 0%, rgba(252, 70, 107, 1) 100%);
+}
+.nav-link{
+  font-size:20px;
+}
+/*.contactform{*/
+/*   border: solid 1px;*/
+/*}*/
+.prices{
+height: 250px;
+    background: #EEAECA;
+    background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+}
